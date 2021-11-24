@@ -284,14 +284,6 @@ async function run() {
 
 
 
-        // Get Ratings
-        app.get('/ratings', async (req, res) => {
-            const cursor = ratingsCollection.find({})
-            const result = await cursor.toArray();
-            res.json(result)
-        });
-
-
 
         //Add new rating
         app.post('/ratings', async (req, res) => {
