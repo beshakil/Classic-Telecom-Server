@@ -72,7 +72,7 @@ async function run() {
         const ratingsCollection = database.collection("ratings");
 
 
-        app.put('/orders/:id', async (req, res) => {
+        app.put('/orders/pay/:id', async (req, res) => {
             const id = req.params.id;
             const payment = req.body;
             const filter = { _id: ObjectId(id) }
