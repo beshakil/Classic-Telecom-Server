@@ -1,4 +1,4 @@
-# Classic Telecom - Webapp
+# Classic Telecom - Server
 ### [Live Site](https://classic-telecom.web.app/)
 ### [Server Site](https://fast-cliffs-19766.herokuapp.com/)
 
