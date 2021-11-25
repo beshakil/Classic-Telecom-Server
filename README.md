@@ -26,4 +26,4 @@ Password: 123456
 
 ## I have shared the Home page UI below-
 
-![Alt text](relative/path/../../https://github.com/shakilshajib4/Classic-Telecom-Server/blob/e08a5bb1947bf7344d0326e7b8528d6c6c45dd97/React%20App-min.png)
+![Alt text](https://github.com/shakilshajib4/Classic-Telecom-Server/blob/e08a5bb1947bf7344d0326e7b8528d6c6c45dd97/React%20App-min.png)
